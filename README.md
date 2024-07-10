@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arnav Dalmia</h1>
+<h1 align="center">Hi there 👋, I'm Arnav Dalmia</h1>
 <h3 align="center">A upcoming and hardworking full-stack developer</h3>
-## About Me : 
+I’m Arnav Dalmia, a 2nd year student @ the University of Waterloo studying Systems Design Engineering. I consider myself to be a builder. I enjoy problem-solving and have always been passionate about creating and improving things. Im an aspiring full stack developper with an interest in AI/ML, Data Science, Devops, and Robotics.
+
+<h3 align="center">About Me</h3>
 - 🔭 I’m currently working on [SquadSyncra](https://github.com/ArnavDalmia/SquadSyncra)
 
 - 🌱 I’m currently learning **Pytorch, TensorFlow, Deep Q Learning**
 
-- 💬 Ask me about **Python, Java, SQL,**
+- 💬 Ask me about **Squad Syncra and honestly any topic**
 
 - 📫 How to reach me **arnavd.me@gmail.com**
 
