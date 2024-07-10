@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Arnav Dalmia</h1>
 <h3 align="center">A upcoming and hardworking full-stack developer</h3>
-I’m Arnav Dalmia, a 2nd year student @ the University of Waterloo studying Systems Design Engineering. I consider myself to be a builder. I enjoy problem-solving and have always been passionate about creating and improving things. Im an aspiring full stack developper with an interest in AI/ML, Data Science, Devops, and Robotics.
+I’m Arnav Dalmia, a 2nd year student @ the University of Waterloo studying Systems Design Engineering. I consider myself to be a builder. I enjoy problem-solving and have always been passionate about creating and improving things.
 
 <h3 align="center">About Me</h3>
 - 🔭 I’m currently working on [SquadSyncra](https://github.com/ArnavDalmia/SquadSyncra)
@@ -11,6 +11,7 @@ I’m Arnav Dalmia, a 2nd year student @ the University of Waterloo studying Sys
 
 - 📫 How to reach me **arnavd.me@gmail.com**
 
+- 🤩 Interested in **AI/ML, Data Science, Devops, and Robotics**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arnav-dalmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-dalmia" height="30" width="40" /></a>
