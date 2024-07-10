@@ -2,7 +2,6 @@
 <h3 align="center">A upcoming and hardworking full-stack developer</h3>
 I’m Arnav Dalmia, a 2nd year student @ the University of Waterloo studying Systems Design Engineering. I consider myself to be a builder. I enjoy problem-solving and have always been passionate about creating and improving things.
 
-<h3 align="center">About Me</h3>
 - 🔭 I’m currently working on [SquadSyncra](https://github.com/ArnavDalmia/SquadSyncra)
 
 - 🌱 I’m currently learning **Pytorch, TensorFlow, Deep Q Learning**
