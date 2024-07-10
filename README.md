@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnav Dalmia</h1>
 <h3 align="center">A upcoming and hardworking full-stack developer</h3>
-
+## About Me : 
 - 🔭 I’m currently working on [SquadSyncra](https://github.com/ArnavDalmia/SquadSyncra)
 
 - 🌱 I’m currently learning **Pytorch, TensorFlow, Deep Q Learning**
