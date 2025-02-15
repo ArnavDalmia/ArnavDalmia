@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Arnav Dalmia</h1>
-<h3 align="center">A upcoming and hardworking full-stack developer</h3>
-I’m Arnav Dalmia, a 2nd year student @ the University of Waterloo studying Systems Design Engineering. I consider myself to be a builder. I enjoy problem-solving and have always been passionate about creating and improving things.
+<h3 align="center">A upcoming and hardworking software engineer</h3>
+I’m Arnav Dalmia, a Systems Design Engineering student at the University of Waterloo. I consider myself to be a builder. I enjoy problem-solving and have always been passionate about creating and improving things.
 
 - 🔭 I’m currently working on [ResRate](https://github.com/ArnavDalmia/ResRate)
 
-- 🌱 I’m currently learning **Pytorch, TensorFlow, Deep Q Learning**
+- 🌱 I’m currently learning **Pytorch, ML/AI Algs**
 
-- 💬 Ask me about **Squad Syncra and honestly any topic**
+- 💬 Ask me about **honestly anything**
 
-- 📫 How to reach me **arnavd.me@gmail.com**
+- 📫 How to reach me **a4dalmia@uwaterloo.ca**
 
 - 🤩 Interested in **AI/ML, Data Science, Devops, and Robotics**
 <h3 align="left">Connect with me:</h3>
