@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Arnav Dalmia</h1>
 <h3 align="center">A upcoming and hardworking software engineer</h3>
-I’m Arnav Dalmia, a Systems Design Engineering student at the University of Waterloo. I consider myself to be a builder. I enjoy problem-solving and have always been passionate about creating and improving things.
+I’m Arnav Dalmia, a Systems Design Engineering student at the University of Waterloo. I enjoy problem-solving and have always been passionate about creating and improving things.
 
 - 🔭 I’m currently working on [ResRate](https://github.com/ArnavDalmia/ResRate)
 
