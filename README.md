@@ -10,7 +10,7 @@ I’m Arnav Dalmia, a Systems Design Engineering student at the University of Wa
 
 - 📫 How to reach me **a4dalmia@uwaterloo.ca**
 
-- Feel free to send me job apps 😭 [Here](emailmejobs.netlify.app)
+- Feel free to send me job apps 😭 [Here](https://emailmejobs.netlify.app)
 
 - 🤩 Interested in **AI/ML, Data Science, Devops, and Robotics**
 <h3 align="left">Connect with me:</h3>
