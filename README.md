@@ -2,7 +2,7 @@
 <h3 align="center">A upcoming and hardworking software engineer</h3>
 I’m Arnav Dalmia, a Systems Design Engineering student at the University of Waterloo. I enjoy problem-solving and have always been passionate about creating and improving things.
 
-- 🔭 I’m currently working on [ResRate](https://github.com/ArnavDalmia/ResRate)
+- 🔭 I’m currently working on [LeetSandbox](https://github.com/ArnavDalmia/LeetSandbox) & NaviSearch
 
 - 🌱 I’m currently learning **Pytorch, ML/AI Algs**
 
