@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Arnav Dalmia</h1>
 <h3 align="center">A upcoming and hardworking software engineer</h3>
-I’m Arnav Dalmia, a Systems Design Engineering student at the University of Waterloo. I enjoy problem-solving and have always been passionate about creating and improving things.
+I’m Arnav Dalmia, a [Systems Design Engineering]{https://uwaterloo.ca/systems-design-engineering} student at the University of Waterloo. I enjoy problem-solving and have always been passionate about creating and improving things. Im currently in my 2B term and am looking for Winter 2026 and Summer 2026 internships.
 
 - 🔭 I’m currently working on [LeetSandbox](https://arnavdalmia.github.io/LeetSandbox/index.html) & NaviSearch
 
